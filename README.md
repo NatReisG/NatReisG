@@ -1,5 +1,5 @@
 - 👋 Olá, sou o @NatReisG
-- 👀 Goto de video games e tecnologia
+- 👀 Gosto de video games e economia
 - 🌱 Atualmente estou aprendendo HTML, CSS e Js
 <!---
 NatReisG/NatReisG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
